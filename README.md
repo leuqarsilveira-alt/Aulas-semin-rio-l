@@ -1,2 +1,5 @@
-# Aulas-semin-rio-l
+# Aulas-seminario-l
 Anotações, registros de disciplinas e evolução acadêmica.
+A aula "Identidade Profissional" do Prof. Dr. Alexandre Gatelli Bastos ensina alunos de TI a abandonarem a mentalidade de "estudante" para se posicionarem como "profissionais em formação". O objetivo é torná-los talentos visíveis para preencher as mais de 800 mil vagas abertas no mercado brasileiro. A estratégia central foca na sinergia entre duas plataformas principais:
+LinkedIn: Atua como a vitrine profissional e ferramenta de networking para descoberta de talentos. O perfil deve reter a atenção dos recrutadores por meio de uma foto adequada, um título estratégico otimizado com palavras-chave da área e uma seção "Sobre" autêntica que evidencie o aprendizado contínuo. A interação na rede deve ser humana e ética, evitando pedir emprego no primeiro contato.
+GitHub:Funciona como prova social técnica e portfólio prático de habilidades. A consistência de uso é avaliada pelo gráfico de contribuições, sendo recomendado o hábito de fazer pelo menos um *commit* semanal. É crucial documentar os repositórios (que podem incluir anotações de aula e exercícios práticos) com arquivos README claros para explicar o propósito de cada projeto.
